@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd08b19e460e8d36726195c16417e103",
+    "revision": "9a51cde5dcf5d96fb1e4dae35fa744b1",
     "url": "/Addax-rere/index.html"
   },
   {
-    "revision": "f587e9f73c4949699896",
+    "revision": "69ded64695fe7e4b1fcf",
     "url": "/Addax-rere/static/css/main.a4d0c076.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Addax-rere/static/js/2.fa9f2fa6.chunk.js"
   },
   {
-    "revision": "f587e9f73c4949699896",
-    "url": "/Addax-rere/static/js/main.a6b7d841.chunk.js"
+    "revision": "69ded64695fe7e4b1fcf",
+    "url": "/Addax-rere/static/js/main.4d1b0db2.chunk.js"
   },
   {
     "revision": "807664645d36de94dbc3",
